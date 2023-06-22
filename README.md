@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/faisal-algabani-b68188203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisal algabani" height="30" width="40" /></a>
 <a href="https://instagram.com/fu3l.z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fu3l.z" height="30" width="40" /></a>
-<a href="https://discord.gg/5AkF9b2H" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FaisalM#2611" height="30" width="40" /></a>
+<a href="[https://discord.gg/5AkF9b2H](https://discordapp.com/users/588519591601504286)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FaisalM#2611" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
