@@ -26,5 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisal-algabni&show_icons=true&locale=en" alt="faisal-algabni" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisal-algabni&" alt="faisal-algabni" /></p>
 
