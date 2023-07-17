@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Law firm system**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Kotlin and Spring Boot framework **
 
 - 📫 How to reach me **Algabanif@gmail.com**
 
