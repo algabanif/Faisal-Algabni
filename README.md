@@ -6,7 +6,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fu3l.z/) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-algabani-b68188203/) 
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/F_Moh5) 
-  [![Email](https://img.shields.io/badge/Email-%227889DA.svg?logo=gmail&logoColor=white)](https://discord.com/users/588519591601504286) 
+  <a href="mailto:algabanif@gmail.com">![Email](https://img.shields.io/badge/Email-%227889DA.svg?logo=gmail&logoColor=white)</a>
 <br>
 
 ## 💻 Tech Stack:
